@@ -2,10 +2,6 @@
 
 This project is available for open source contribution
 
-## Video link on youtube
-If you want a detailed explanation of this project, then feel free to go and watch videos. Make sure if you like the video then please subscribe to my channel.\
-[Fake News Detection Using Machine Learning](https://www.youtube.com/watch?v=CUkggjNNoWs&list=PLA0J2h1KIAR7xoDbI1usGLVRW6_6qiLuq&index=19)
-
 ## Overview  
 The topic of fake news detection on social media has recently attracted tremendous attention. The basic countermeasure of comparing websites against a list of labeled fake news sources is inflexible, and so a machine learning approach is desirable.  Our project aims to use Machine learning algorithms to detect fake news directly, based on the text content of news articles. 
 
@@ -22,38 +18,22 @@ Planning: -
 
 ## Project link
 
-[Fake News Detection Using Machine Learning](https://youtu.be/CUkggjNNoWs)
+http://bit.ly/fakeNewsPrediction
 
-All parts available in playlist,
-channel name  - [codejay](https://www.youtube.com/channel/UCZnkti7aeEmQ7CzumqEEsLg)
+#Changes made to the existing project:
 
-## Installation
+I have created a web application that is deployed using Streamlit.
+Also another Web application using Flask that can run on local server!
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install library.
 
-```bash
-pip install virtualenv
-```
-```bash
-virtualenv env_name
-```
-```bash
-env_name/scripts/activate
-```
-## Start Project
+This project helped in understanding Machine learning modelling, the importance of Data cleaning and PassiveAggressive classifier online learning algorithm. Through this project I have learned Flask and Streamlit frameworks and their functionalities.
 
-Follow these commands to start your project.
+Website Using Streamlit:
 
-```bash
-pip install -r requirements.txt
-```
-```bash
-python app.py
-```
-## Home page
 
-![Test Image 1](https://github.com/codejay411/Fake_News_detection/blob/main/Screenshot%20(58).png)
 
-## Prediction page
+![1](https://user-images.githubusercontent.com/54587684/235493577-497259cd-a9d3-4353-ac66-be3aac40d593.png)
 
-![Test Image 1](https://github.com/codejay411/Fake_News_detection/blob/main/Screenshot%20(59).png)
+![2](https://user-images.githubusercontent.com/54587684/235493632-04e688f4-2fb6-46e0-8faf-f452b3ad162c.png)
+
+
